@@ -1,4 +1,4 @@
-##  Hi, I'm Álvaro José
+##  Hi Dear, I'm Álvaro José
 ##  Front-End Developer
 
 <div align="center">
