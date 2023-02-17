@@ -1,5 +1,5 @@
 ##  Hi Dear, I'm Álvaro José
-##  Front-End Developer
+##  Full Stack Developer
 
 <div align="center">
 <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=AlvaroAbreu15&show_icons=true&theme=tokyonight" />
@@ -16,9 +16,11 @@
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/Hooks-js-yellow" />
+<img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/Redux-js-yellow" />
 </div> <br>
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning MySQL
 - 📫 How to reach me alvaroabreu1509@gmail.com
 
   <a href="https://www.linkedin.com/in/alvaroabreu1509/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
