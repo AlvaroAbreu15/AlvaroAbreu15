@@ -16,6 +16,7 @@
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
+<img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div> <br>
 
 - 🌱 I’m currently learning React.js
