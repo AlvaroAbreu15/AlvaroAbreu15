@@ -1,5 +1,5 @@
 ##  Hi Dear, I'm Álvaro José
-##  Full Stack Developer
+##  Front-End Developer
 
 <div align="center">
 <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=AlvaroAbreu15&show_icons=true&theme=tokyonight" />
@@ -14,13 +14,11 @@
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/Hooks-js-yellow" />
-<img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/Redux-js-yellow" />
+<img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </div> <br>
 
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me alvaroabreu1509@gmail.com
 
   <a href="https://www.linkedin.com/in/alvaroabreu1509/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
