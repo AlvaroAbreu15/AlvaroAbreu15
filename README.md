@@ -1,5 +1,5 @@
 ##  Hi Dear, I'm Álvaro José
-##  Front-End Developer
+##  O&M Intern at ARGO
 
 <div align="center">
 <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=AlvaroAbreu15&show_icons=true&theme=tokyonight" />
@@ -20,7 +20,6 @@
 <img align="center" alt="alvaro-react" height="26em" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div> <br>
 
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me alvaroabreu1509@gmail.com
 
   <a href="https://www.linkedin.com/in/alvaroabreu1509/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
