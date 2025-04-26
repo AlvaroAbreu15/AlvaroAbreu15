@@ -1,5 +1,5 @@
 ##  Hi Dear, I'm Álvaro José
-##  O&M Intern at ARGO
+##  Eletrical Power Systems and Information Technology
 
 <div align="center">
 <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=AlvaroAbreu15&show_icons=true&theme=tokyonight" />
